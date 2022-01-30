@@ -1,4 +1,4 @@
-# ⌨️ Custom keyboard
+# ⌨️ Custom keyboards
 
 ## 🛠️ Tofu65
 
@@ -19,6 +19,26 @@
 <a href="https://i.imgur.com/PhP7zrc.jpg"><img src="https://i.imgur.com/PhP7zrct.jpg">
 
 📦 [`dztech/dz65rgb/v2`](https://config.qmk.fm/#/dztech/dz65rgb/v2/LAYOUT_65_ansi)
+
+## 🛠️ Mode SixtyFive
+
+| Part        | Description                                    |
+|-------------|------------------------------------------------|
+| Case        | Mode SixtyFive (Lilac top/bottom + White back) |
+| Board       | Mode SixtyFive hotswap PCB (ANSI)              |
+| Plate       | Black Aluminum (full)                          |
+| Keycaps     | TBD                                            |
+| Switches    | TBD                                            |
+| Stabilizers | TBD                                            |
+| Foam        | Die-cut poron plate foam                       |
+| Lube        | TBD                                            |
+| Cable       | TBD                                            |
+
+<a href="https://via.placeholder.com/160x90.png?text=TBD"><img src="https://via.placeholder.com/160x90.png?text=TBD">
+<a href="https://via.placeholder.com/160x90.png?text=TBD"><img src="https://via.placeholder.com/160x90.png?text=TBD">
+<a href="https://via.placeholder.com/160x90.png?text=TBD"><img src="https://via.placeholder.com/160x90.png?text=TBD">
+
+📦 [`mode/m65ha_alpha`](https://config.qmk.fm/#/mode/m65ha_alpha/LAYOUT_all)
 
 ## References
 
