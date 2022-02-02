@@ -1,6 +1,6 @@
-# ⌨️ Custom keyboards
+# ⌨️ Custom keyboard builds
 
-## 🛠️ Tofu65
+## 🛠️ Tofu65 (March 2021)
 
 | Part        | Description                                                                 |
 |-------------|-----------------------------------------------------------------------------|
@@ -20,7 +20,7 @@
 
 📦 [`dztech/dz65rgb/v2`](https://config.qmk.fm/#/dztech/dz65rgb/v2/LAYOUT_65_ansi)
 
-## 🛠️ Mode SixtyFive
+## 🛠️ Mode SixtyFive (TBD)
 
 | Part        | Description                                    |
 |-------------|------------------------------------------------|
