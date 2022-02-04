@@ -9,7 +9,7 @@
 | Plate       | Brass                                                                       |
 | Keycaps     | GMK 8008                                                                    |
 | Switches    | Gateron Ink Black V2 (lubed + TX 0.125mm films)                             |
-| Stabilizers | Durock screw-in stabilizers (lubed)                                         |
+| Stabilizers | DUROCK screw-in stabilizers V2 smokey (lubed)                               |
 | Foam        | DZ65RGB case foam                                                           |
 | Lube        | Krytox 205g0                                                                |
 | Cable       | Coiled cable smoke grey paracord (USB-A to USB-C + GX16 aviator connectors) |
@@ -29,9 +29,9 @@
 | Plate       | Black Aluminum (full)                          |
 | Keycaps     | TBD                                            |
 | Switches    | TBD                                            |
-| Stabilizers | TBD                                            |
+| Stabilizers | DUROCK screw-in stabilizers V2 smokey (lubed)  |
 | Foam        | Die-cut poron plate foam                       |
-| Lube        | TBD                                            |
+| Lube        | Krytox 205g0                                   |
 | Cable       | TBD                                            |
 
 <a href="https://via.placeholder.com/160x90.png?text=TBD"><img src="https://via.placeholder.com/160x90.png?text=TBD">
