@@ -27,7 +27,7 @@
 | Case        | Mode SixtyFive (Lilac top/bottom + White back) |
 | Board       | Mode SixtyFive hotswap PCB (ANSI)              |
 | Plate       | Black Aluminum (full)                          |
-| Keycaps     | TBD                                            |
+| Keycaps     | GMK Taro                                       |
 | Switches    | TBD                                            |
 | Stabilizers | DUROCK screw-in stabilizers V2 smokey (lubed)  |
 | Foam        | Die-cut poron plate foam                       |
